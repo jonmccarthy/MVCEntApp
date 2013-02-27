@@ -1,0 +1,6 @@
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\bin\Debug\PizzaStore.Domain.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\bin\Debug\PizzaStore.Domain.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\obj\Debug\PizzaStore.Domain.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\obj\Debug\PizzaStore.Domain.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.Domain\bin\Debug\PizzaStore.Domain.dll.config

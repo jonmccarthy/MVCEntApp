@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link rel="Stylesheet" href="../../Content/Site.css" />
+</head>
+<body>
+<table width=100%>
+<tr><td>
+    <div id="header">
+        <div class="title">PIZZA STORE - Online Menu Items</div>
+    </div>
+</td></tr>
+<tr><td>
+    <table width=50%>
+        <tr><td>
+            <div id="categories">
+                <% Html.RenderAction("Menu","AdminNav"); %>
+            </div>
+        </td></tr>
+        <tr><td>
+            <div>
+               <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </td></tr>
+    </table>
+</td></tr>
+</table>
+
+
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaProject", "PizzaProject\PizzaProject.csproj", "{C156FC39-73B8-4E48-A311-43C4966D2AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStore.Domain", "PizzaStore.Domain\PizzaStore.Domain.csproj", "{D515DEFF-90B6-4798-AD01-C6FD317357B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStore.WebUI", "PizzaStore.WebUI\PizzaStore.WebUI.csproj", "{A4B4D5CC-E98E-424A-BB45-4AF23EE1E15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStore.UnitTests", "PizzaStore.UnitTests\PizzaStore.UnitTests.csproj", "{3D3443BE-A2B0-4B99-B4C9-D87ABB18C141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C156FC39-73B8-4E48-A311-43C4966D2AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C156FC39-73B8-4E48-A311-43C4966D2AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C156FC39-73B8-4E48-A311-43C4966D2AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C156FC39-73B8-4E48-A311-43C4966D2AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D515DEFF-90B6-4798-AD01-C6FD317357B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D515DEFF-90B6-4798-AD01-C6FD317357B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D515DEFF-90B6-4798-AD01-C6FD317357B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D515DEFF-90B6-4798-AD01-C6FD317357B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B4D5CC-E98E-424A-BB45-4AF23EE1E15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B4D5CC-E98E-424A-BB45-4AF23EE1E15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B4D5CC-E98E-424A-BB45-4AF23EE1E15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B4D5CC-E98E-424A-BB45-4AF23EE1E15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3443BE-A2B0-4B99-B4C9-D87ABB18C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3443BE-A2B0-4B99-B4C9-D87ABB18C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3443BE-A2B0-4B99-B4C9-D87ABB18C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3443BE-A2B0-4B99-B4C9-D87ABB18C141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

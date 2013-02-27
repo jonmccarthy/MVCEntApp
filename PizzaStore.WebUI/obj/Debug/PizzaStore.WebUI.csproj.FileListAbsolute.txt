@@ -1,0 +1,8 @@
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\bin\PizzaStore.WebUI.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\bin\PizzaStore.WebUI.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\bin\PizzaStore.Domain.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\bin\PizzaStore.Domain.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\obj\Debug\PizzaStore.WebUI.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\obj\Debug\PizzaStore.WebUI.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.WebUI\bin\Ninject.dll

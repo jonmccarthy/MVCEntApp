@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.UnitTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-11-16" time="23:48:42">
+  <environment nunit-version="2.5.8.10295" clr-version="2.0.50727.4206" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.8\bin\net-2.0" machine-name="POSSERVER" user="MscWeb" user-domain="POSSERVER" />
+  <culture-info current-culture="en-IE" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.UnitTests.dll" executed="True" result="Success" success="True" time="0.655" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="PizzaStore" executed="True" result="Success" success="True" time="0.655" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.655" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="CatalogBrowsing" executed="True" result="Success" success="True" time="0.655" asserts="0">
+                <results>
+                  <test-case name="PizzaStore.UnitTests.CatalogBrowsing.Can_View_A_Single_Page_Of_Products" executed="True" result="Success" success="True" time="0.640" asserts="3" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

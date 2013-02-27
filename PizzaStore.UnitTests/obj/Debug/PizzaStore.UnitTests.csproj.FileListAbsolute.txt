@@ -1,0 +1,15 @@
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.UnitTests.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.UnitTests.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\obj\Debug\PizzaStore.UnitTests.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\obj\Debug\PizzaStore.UnitTests.pdb
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.Domain.dll
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.WebUI.dll
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.Domain.pdb
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\PizzaStore.WebUI.pdb
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\Moq.pdb
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\MscWeb\Documents\Visual Studio 2010\Projects\PizzaProject\PizzaStore.UnitTests\bin\Debug\nunit.framework.xml
